@@ -123,3 +123,5 @@ WHERE customer_id IN (
   - Chọn ra các hàng từ bằng **Customers** với điều kiện các **customer_id** nằm trong tập hợp kết quả của truy vấn phụ trả về tức là nếu các **customer_id** cũng nằm trong bảng **Orders**
 
 ![image5](https://live.staticflickr.com/65535/52861024716_5a723819fe_z.jpg)
+
+## SQL BETWEEN Operator
